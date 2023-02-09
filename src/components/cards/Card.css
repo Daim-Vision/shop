@@ -1,0 +1,25 @@
+.products {
+    display: flex;
+    width: 85%;
+    flex-wrap: wrap;
+}
+
+.image_container > img {
+    height: 100%;
+    width: auto;
+}
+.image_container {
+text-align: center;
+height: 180px;
+width: 100%;
+}
+
+.Card {
+    margin: 10px;
+    margin-bottom: 30px;
+}
+
+.card-body {
+   text-align: center;
+}
+
